@@ -1,13 +1,13 @@
 @media (max-width: 800px) {
+    .grid2{
+    display: flex; 				   
+    flex-direction: column; 
+    }
     #piePagina{
         margin-top: 40px;
         display: flex;
         flex-direction: column;
         align-items: center;
       }
-      .grid {
-        display: grid; 				   
-        grid-template-columns: 100%; 
-          
-     }
+      
  }

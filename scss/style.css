@@ -11184,9 +11184,12 @@ a:link, a:visited, a:active {
   grid-template-columns: 50% 50%;
 }
 
+#titulo {
+  margin: 40px;
+}
+
 #imagen {
   width: 100%;
-  margin-top: 20px;
 }
 
 .acordeon {
